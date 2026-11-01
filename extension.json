@@ -1,4 +1,5 @@
 {
+  "type": "extension",
   "name": "ParametricallyCompass",
   "description": "Offline regulation Markdown reader and read-only MCP source tools.",
   "author": "Parametrically / Kaan Karabay",

@@ -1,4 +1,5 @@
 * text=auto eol=lf
+lib/compass/data/** -text -whitespace
 lib/compass/data/yonetmelik.md -text -whitespace
 lib/compass/data/ek-*.md -text -whitespace
 lib/compass/data/sources/** -text -whitespace

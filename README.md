@@ -38,7 +38,7 @@ Bu proje henüz pyRevit'in resmî Extensions kataloğuna dahil değildir. Doğru
 - Belge dizini ve madde/tablo içindekileri.
 - Bütün belgelerde Türkçe arama; Ctrl+K veya /.
 - Açık/koyu tema, yazı boyutu ve yazdırma.
-- Düzenlenebilir HTML tablolarında birleşik hücreler; 11 SVG şekli.
+- HTML tablolarında birleşik hücreler; 11 SVG şekli.
 - EK-1–EK-9 için özgün 241 sayfalık PDF'ye isteğe bağlı geçiş.
 
 WPF geri dönüşünde tablolar satır ve sütun ayırıcılarıyla düzleştirilir. Birleşik hücrelerin anlamı için web görünümü veya özgün PDF kullanılmalıdır.

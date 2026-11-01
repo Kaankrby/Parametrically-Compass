@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/Kaankrby/dijital-proje-yonetmeligi",
+  "commit": "f1b8e50f1c33cd7b93bcc6b908532970844323d1",
+  "files": {
+    "ek-1.md": {
+      "sha256": "6f3dd3e7c121ebe2b52939b28b16541dd028a86c3782868cb7c5a691bdbfe568",
+      "bytes": 2288
+    },
+    "ek-2.md": {
+      "sha256": "6ca977ff740005c6a42109dd7bf63b5220dc2437c49daa74c40051d6bd9707c4",
+      "bytes": 20367
+    },
+    "ek-3.md": {
+      "sha256": "29179f40af58f7864f9c60e630548598d61661b401e2e19eabde522de37fabcf",
+      "bytes": 9531
+    },
+    "ek-4.md": {
+      "sha256": "4bd37423fcc5c04e5da2bd06a510f2ebd3f893c128e2b7c6ab5daa5c36cd0318",
+      "bytes": 23101
+    },
+    "ek-5.md": {
+      "sha256": "6a4020a9bfac4a4eee9a572625994d4f0a9c4814122df013a88d51dcb73ca92b",
+      "bytes": 14849
+    },
+    "ek-6.md": {
+      "sha256": "5de31cb36909bb7a49feb0674df3b4367f28b85b1c4d60707c6326093e613995",
+      "bytes": 453036
+    },
+    "ek-7.md": {
+      "sha256": "e04a67d057122e1791bb2e84ece095767735f6dd542559c0646e5e4238b25631",
+      "bytes": 25408
+    },
+    "ek-8.md": {
+      "sha256": "6c0ee3ecbc6e6c36f50482c6836e690f84de86f3466aadbbd9e2bf934fa50d89",
+      "bytes": 1373
+    },
+    "ek-9.md": {
+      "sha256": "f9ae34bc300f1a67681e76b9b2dc4b919244454f8c4c893f77c8cb8ff2458979",
+      "bytes": 8626
+    },
+    "figures/page-026-figure-01.svg": {
+      "sha256": "b335353e75cd2022270e0df4576d8d38ebff5d39dd74b4f815f40f59aacb322c",
+      "bytes": 11962
+    },
+    "figures/page-026-figure-02.svg": {
+      "sha256": "10d3590078eb4b8cf6213b7eaa31975f84d384d8e296a5255df9eead0db09e68",
+      "bytes": 8631
+    },
+    "figures/page-026-figure-03.svg": {
+      "sha256": "b6bc1b2a0a565a938299df558710be66edf61fc4a892b7c5950f5ac4ec61161d",
+      "bytes": 9115
+    },
+    "figures/page-027-figure-01.svg": {
+      "sha256": "1a064683ba05633365e98206ccde91ac3967d2d5f16c47410e19bc8f5dcd9713",
+      "bytes": 19664
+    },
+    "figures/page-027-figure-02.svg": {
+      "sha256": "5906ef481cd7f839842d6f20fed6bff3d3e57e1eae694a3d222d70ea0deca25f",
+      "bytes": 4306
+    },
+    "figures/page-027-figure-03.svg": {
+      "sha256": "23355216beb25a129ffd5394091cc0781e25f405e5ef43d239f050b5a6603075",
+      "bytes": 11820
+    },
+    "figures/page-028-symbol-02.svg": {
+      "sha256": "eee6f5db4dd2330ceffc022fa13699ed03388ef9af219128e547f489469d499a",
+      "bytes": 5208
+    },
+    "figures/page-028-symbol-04.svg": {
+      "sha256": "0d42be9ac86b3278df368c5c668891bc1ae575dcc0aad2c8ad275883c25272a3",
+      "bytes": 2824
+    },
+    "figures/page-028-symbol-06.svg": {
+      "sha256": "7c24861be72b36d7a64b9df584f34787d54ed4fec7b01ac88f8e2e5b3e69ccfc",
+      "bytes": 6347
+    },
+    "figures/page-028-symbol-07.svg": {
+      "sha256": "dcdf09128b20d1ff8620d5ae572f1a1712c58761f27e346c457599f7c76e4486",
+      "bytes": 4185
+    },
+    "figures/page-028-symbol-08.svg": {
+      "sha256": "18486ad243149dc3cc59828d5ec778958037dc4cf80a9035b59737fde11c1edc",
+      "bytes": 7044
+    },
+    "sources/20260805-2-1.pdf": {
+      "sha256": "7dc88971d3a7a8ae837ef148169fa5bf6c9ce7a01cc8fcd560ae3d342bb0ecb3",
+      "bytes": 22801668
+    },
+    "sources/20260805-2.htm.txt": {
+      "sha256": "ac662505610e9a8b34ecc9116a04d0843992d5b95820eaba1b4c12e9679c2703",
+      "bytes": 51836
+    },
+    "sources/ocr-provenance.json": {
+      "sha256": "3bf6fa55962d42286f7a28ec935416fc432271cfa57398ac84a80967e47bf0ab",
+      "bytes": 83236
+    },
+    "sources/structured-annexes.json": {
+      "sha256": "a882ed184321d19ddf4a7d03677c20e7d090e4ce411bccfce66e7856bc46771e",
+      "bytes": 8504579
+    },
+    "sources/transcription-corrections.json": {
+      "sha256": "0a616148a5f74199cd13d8efa30a3bf76239c42ac7114d56bc3cb622b7fb2c0a",
+      "bytes": 676650
+    },
+    "yonetmelik.md": {
+      "sha256": "600a600752cfc01fca248b785ffd84ee78abdfb1b4bb09ccfdbe55806511a2f0",
+      "bytes": 11426
+    }
+  }
+}

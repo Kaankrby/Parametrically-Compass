@@ -1,0 +1,2 @@
+# Official SDK 1.x maintenance line; independently versioned from the IronPython reader.
+mcp>=1.28,<2

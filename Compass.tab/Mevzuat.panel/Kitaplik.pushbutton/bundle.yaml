@@ -1,0 +1,8 @@
+title: Kitaplık
+tooltip: >-
+  Yönetmelik ana metnini ve EK-1–EK-9 belgelerini çevrimdışı okuyun ve arayın.
+  Modeli değiştirmez. Shift+tıklama klasik WPF görünümünü açar.
+author: Parametrically
+min_revit_version: 2024
+max_revit_version: 2026
+context: zero-doc

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; frame-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Mevzuat Rehberi · Parametrically Compass</title>
+  <link rel="stylesheet" href="reader.css">
+  <script src="library.js" defer></script>
+  <script src="reader.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#reading">Metne geç</a>
+  <header class="topbar">
+    <button id="menu" class="icon mobile" aria-label="Belge dizinini aç" aria-expanded="false">☰</button>
+    <div class="brand"><span class="brand-mark">P/</span><div><strong>PARAMETRICALLY</strong><small>COMPASS · MEVZUAT</small></div></div>
+    <div class="search-wrap"><label for="search" class="sr-only">Bütün belgelerde ara</label><input id="search" type="search" autocomplete="off" placeholder="Madde, terim veya kod ara…"><kbd>Ctrl K</kbd></div>
+    <button id="theme" class="icon" aria-label="Temayı değiştir">◐</button>
+    <button id="smaller" class="icon size" aria-label="Yazıyı küçült">A−</button>
+    <button id="larger" class="icon size" aria-label="Yazıyı büyüt">A+</button>
+  </header>
+  <div id="search-panel" hidden><div class="search-heading"><strong id="search-count" role="status" aria-live="polite"></strong><button id="close-search" aria-label="Arama sonuçlarını kapat">Kapat · Esc</button></div><div id="search-results"></div></div>
+  <div class="layout">
+    <nav id="documents" aria-label="Standart ve yönetmelik dizini"><div class="nav-intro">KAYNAK KOLEKSİYONU<span>Yönetmelik • 9 ek</span></div><div id="document-list"></div><div class="nav-note"><span class="dot"></span> Çevrimdışı • Salt okunur<br><small>Kaynağı okumak, uygunluk onayı değildir.</small></div></nav>
+    <main id="reading" tabindex="-1">
+      <div class="breadcrumb" id="breadcrumb"></div>
+      <div class="document-header"><span class="eyebrow" id="status"></span><h1 id="title"></h1><p id="subtitle"></p><div class="actions"><button id="pdf-toggle" hidden>Özgün PDF</button><a id="official" href="https://www.resmigazete.gov.tr/eskiler/2026/08/20260805-2.htm" target="_blank" rel="noopener noreferrer">Resmî kaynak ↗</a><button id="print">Yazdır</button></div></div>
+      <div id="pdf-notice" hidden>Özgün PDF • Sayfa düzeni, tablolar ve dipnotlar bu nüshadan karşılaştırılır.</div>
+      <iframe id="pdf" title="Özgün yönetmelik ekleri PDF" hidden></iframe>
+      <article id="content"></article>
+      <footer>PARAMETRICALLY / KAYNAK OKUYUCU <span>Yayım nüshası: 05.08.2026 · Okuyucu hazırlığı: 01.11.2026</span></footer>
+    </main>
+    <aside aria-label="Seçili belgenin içindekileri"><div class="toc-label">BU BELGEDE</div><nav id="toc" aria-label="Bölüm ve sayfa bağlantıları"></nav><div class="source-note" id="source-note"></div></aside>
+  </div>
+  <noscript>Okuyucu JavaScript gerektirir. Aynı klasördeki Markdown belgelerini veya sources/20260805-2-1.pdf dosyasını doğrudan açabilirsiniz.</noscript>
+</body>
+</html>

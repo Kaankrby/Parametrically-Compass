@@ -1,0 +1,9 @@
+{
+  "name": "ParametricallyCompass",
+  "description": "Offline regulation Markdown reader and read-only MCP source tools.",
+  "author": "Parametrically / Kaan Karabay",
+  "url": "https://github.com/Kaankrby/Parametrically-Compass.git",
+  "website": "https://github.com/Kaankrby/Parametrically-Compass",
+  "version": "0.1.0",
+  "dependencies": []
+}

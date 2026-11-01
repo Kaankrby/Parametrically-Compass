@@ -1,0 +1,7 @@
+* text=auto eol=lf
+lib/compass/data/yonetmelik.md -text -whitespace
+lib/compass/data/ek-*.md -text -whitespace
+lib/compass/data/sources/** -text -whitespace
+lib/compass/data/figures/** -text -whitespace
+*.png binary
+*.pdf binary

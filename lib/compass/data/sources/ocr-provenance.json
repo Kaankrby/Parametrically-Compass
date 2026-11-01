@@ -1,0 +1,2178 @@
+{
+  "source_sha256": "7dc88971d3a7a8ae837ef148169fa5bf6c9ce7a01cc8fcd560ae3d342bb0ecb3",
+  "source_pages": 241,
+  "status": "OCR_UNREVIEWED",
+  "note": "Bu dosya ilk 225 dpi sayfa OCR kaydını korur. Güncel tabloların tamamında 300 dpi hücre OCR, satır/sütun yapısı, düzeltmeler ve kaynak kesit özetleri structured-annexes.json içindedir.",
+  "pages": [
+    {
+      "page": 1,
+      "cache_sha256": "0da677b145a9cdb9e7f7db4cd3105bf7e94578c9387cba95792fbc0fc018ac11",
+      "text_sha256": "d003426aec9870feed37799d249119a42636be27e4f4ceab6c1d397f9994ee3b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 2,
+      "cache_sha256": "da89fc09475e17d804fb0d46a8e085a5f4f224ae3c8a79836dce1a7860c8fd05",
+      "text_sha256": "299588292a8b9e59fed7b35556ec3466070bbd6b84dd998d0a93e33f083c62df",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 3,
+      "cache_sha256": "0b7541ee3dbecfa0d49ccfc46dd3eb206ea57419556d9c1a0fc397a1966eef4c",
+      "text_sha256": "d7b88e034b0110d020a30ba6b204249ef6f0e75224b9a7edc8a702fa1a85ae20",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 4,
+      "cache_sha256": "d87f6985001849ac2e3ec4c10836332aa2b5bbf4ff294baa57c213f0d52e097e",
+      "text_sha256": "a139066b5672d6d9372520189e0cfc680c7bcdf08781ba77fc45dcd655cab699",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 5,
+      "cache_sha256": "bb34cf0a8653cfabe2c177d3cb7bb78584a75320edb14116f16b74117f6a6845",
+      "text_sha256": "7eb2c1626f6b00f60eda0d83c86003829f4aa0a2b4494c93e021ba288e528464",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 6,
+      "cache_sha256": "a02da701675e37790c1a7c2356df4efa6cd89045f3183d6758b16787d8959385",
+      "text_sha256": "74ac1a160681c22e42a0662a9dcb711d7722ba3301f1720f622d33846762a157",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 7,
+      "cache_sha256": "307a0e0a39e2f2379c911c2fda621c25a63b2ddd60468ef643a14c991279596c",
+      "text_sha256": "d8450e10007c8df14039aa2fbc6fe4baac08936a365f4dbaa6b120d74b483ad0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 8,
+      "cache_sha256": "f299822ac31469f8a1749ec061ceab58d029e4f45a936544deeac602f8ec63c1",
+      "text_sha256": "b8148cc91e1e65d70585bf5f622208850bd9cd82b4811eb376ea6ad6c9d30268",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 9,
+      "cache_sha256": "e24a7e234a9f3cec3f267b96a4f4e0060ff2ca0a70f9536e00c5a231984cb440",
+      "text_sha256": "5084bad2173529b987d248967ee87b2a23bb0be378180eda069bc45123b3f11a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 10,
+      "cache_sha256": "64c5c40c83c590c00040126e250a94b5c326438f27c84beb56d84417b9f915a3",
+      "text_sha256": "df8dbbae1615ef51d16970ffac5378b22491ace53f3671bb6ff843dc5099a791",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 11,
+      "cache_sha256": "9cd84697da63192d6921cd999fde03ba10ab745b4d1459b3e4fb495c75fcdfe4",
+      "text_sha256": "81e70ecf0cca6e30aa9f56ca9c40d951674d596e94475ff4116eb458f6a161e8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 12,
+      "cache_sha256": "5344197567499689a7f5cdd9b872385b2f2103d201c5d8314b01801b69ce1e03",
+      "text_sha256": "2f94b147998608ec1cbcd9d5689e59400751648685a89c3374e49e53691bc276",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 13,
+      "cache_sha256": "1059a1166a7ec608c95f9423ab4a3e73d722b94713666da4502e029770c3ecba",
+      "text_sha256": "9e19a5c8de9bbb7d2799b85c4f708f562f9da70504c17d5ad02c96e9c985e6b2",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 14,
+      "cache_sha256": "648095a165b896dfa101a6783f0f7168969f975e921ec769ba76edb028eb192c",
+      "text_sha256": "cbc4419ccba70166dce578f68e335be1c54268d0cb163f2c55944a263b255de6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 15,
+      "cache_sha256": "8ecfdca495e786c913758b6967b8754ab9977cef9d7e13022cf73b193122d5f5",
+      "text_sha256": "40f287aeed56f82774bd8a3e8d36b533ec1d711ce74db62b3641b93ef5a78f59",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 16,
+      "cache_sha256": "7cfd2f90906f7470948a257d96a900913f53e88c79097a4a89998ddf1630cf59",
+      "text_sha256": "6e75196e9d3ebacfe352362a8eee347bb800b06b0046681aeca548766934c4bd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 17,
+      "cache_sha256": "7aa075bee7fb8c54ac91e2bf74d5a36d9de47dcbf5040e8cf5e38194b4f51f50",
+      "text_sha256": "45e8ac0747e4201c1ced8d4f1f0434bec1a33d513d39b5a89de9ff2babd1f3ec",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 18,
+      "cache_sha256": "4527e3750c154dabfe48ff1e192e38860c11f2809451648abfb5138e96998c0a",
+      "text_sha256": "46b0c0e36592924c762a6770a5537594e04fd6f79972e667c02d3ae93b9ffea9",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 19,
+      "cache_sha256": "071876c04f4ddd1e6403c8769350b5d0373df0c79b08c020ccf8f6182e43a257",
+      "text_sha256": "446906049369d67849d96696c96fae9de2168bc470b119fbb13100ff09cb7ff7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 20,
+      "cache_sha256": "881874add33584bb8b7636580fa5f536d2916acfc11ec25711adcf3eeea4bd06",
+      "text_sha256": "9f3db1936bfcf3cbd7a45de7288d636e207c573d61b4fe18463706e68305c00f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 21,
+      "cache_sha256": "0f37a31cd653d28a8d3c466a42967938d4e4ccca3db66a56888baa7011141fb0",
+      "text_sha256": "e35b1f530f212207ec1a898045e1412ffa427eaa42f89bf34dfaf39e63d6271a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 22,
+      "cache_sha256": "538b0b2f4094176e5eb33e80641ffd778e9670a099dd04938e6c38fffeace171",
+      "text_sha256": "9d59abb5db00afd8803a2206eef72ef24f79e6915f5d1cb8414222898ed48a88",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 23,
+      "cache_sha256": "d9480325eaad1941a7827af3b3e2caefac19e078fea97b7f55b0edaf95ff460c",
+      "text_sha256": "bc5e65cf77ce246f6c6ece555be4f6477606b961ef49547cd7c61328335c2559",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 24,
+      "cache_sha256": "4fdcbb6c08ad2bd971c61f4695ba210506ffae9b568169489fbf9d80401f9fc9",
+      "text_sha256": "71b57d470ffd173f296d21c891cb36a4cbde1f2bc4db60213852c98d30eed498",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 25,
+      "cache_sha256": "ad5f21c43739a9c34961e4f5532b3d94be05ed6a6f860e8f1b825101a935d175",
+      "text_sha256": "9c234ba221e93f4c34ffc71ece9c3f54bd079f009a827de4ba1cf85206f54e05",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 26,
+      "cache_sha256": "74a7d537c24af35d8e1154e53e43f3b1178a3a88b7c5d27ce3dd64d4317abce6",
+      "text_sha256": "36b59e4ec702fc8b5ba2b4a90d04c59c09c8d092aaccf9350d10044679827001",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 27,
+      "cache_sha256": "b3f77206528742c6c3fb813db909205ebf756e3d0de92a70e9ee36c0f527223f",
+      "text_sha256": "83e1e7954abad44e53290c9827bd3e1d7dc9cd9e8b5750f26677e9441f9a07c3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 28,
+      "cache_sha256": "6e413abb409a769554486ae87123cc985b14d884272d890644f2e4616c832c01",
+      "text_sha256": "fe5c41dfb69ea34b4281c9b309de991b0c50253cc52c27efcb0ca22c9375a937",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 29,
+      "cache_sha256": "aa3141b63b6b2b68f9785e186025020eabc78030dda9c9d2c5bfe6b6df017897",
+      "text_sha256": "0ae0317a7adebb0d00fd1b58bc0669ee531676c0565465f36b3d922e191df846",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 30,
+      "cache_sha256": "d3bf3433c0ab9b97579753e78f04acd37239604169484fec916c4d2fe86da3c8",
+      "text_sha256": "847416a31b2d7870f65de05ec3cb144828db3116277cf610edb8eca6115c6f5e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 31,
+      "cache_sha256": "0a5846b35778aa05a2b528b41ddc59b08752308ed1345d932e1eb26d1772734a",
+      "text_sha256": "325dcb54ffbcf5368c8e578bc1c384508f65f9ae3c7fa71924d7359f32d60e17",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 32,
+      "cache_sha256": "fbcceabc8a7780b483bd09dc7393a716935a222b11d9a63a548aeb5b4b11ffbd",
+      "text_sha256": "a46682a4cd8d3a9ff19364a991bc6cebeff74fa68959e99b2eb5896bf2be0d1e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 33,
+      "cache_sha256": "24d8bf0e4d350e6e721f382995f3071c754ccff3813b718080b466c69fca037f",
+      "text_sha256": "b3e02c963dbd4468ea9217ce2ff57daa8a6ebffcc884516df1911099ff84a6f6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 34,
+      "cache_sha256": "9a393682000d56b58c66f6e9aaa9904ffa61dbc2362a5b2c4e183f9ade367baf",
+      "text_sha256": "4ec0f895febee888d7f21caeff1397a49f9b4ba52b498221f4579b5294617069",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 35,
+      "cache_sha256": "c9fd5cbaa6f33572006f1d623f988b6a14736e984d4ef27b2bdc3951f855d5f1",
+      "text_sha256": "fc776a80d4520e6d59931c7f59b60dd7b7a14bf53e3f05d59db09ddda931deaa",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 36,
+      "cache_sha256": "2c8f65d69262cb5a9da4f7aaebaaceae17eedd7df837ef30a2c0f7381f2ead69",
+      "text_sha256": "94092cb07e841da1f01a8348ece9fcf49441b9e5f1c5788f524015aadc2ce8ba",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 37,
+      "cache_sha256": "bffa9e77e9c84ac01585193a169b3d5510bad7136d26abdac3e0292cfbc49c16",
+      "text_sha256": "c8d0a9abd87aad1d19b55bc53eaeaa2a01c3ba15a82bf472cc518b8e92f2fc22",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 38,
+      "cache_sha256": "3fde199c488836efbedeea3c4c7f7ddeb09e2285c174bab14171e6eafe1c6af4",
+      "text_sha256": "dc9a7eaaeccf036bf565fc54fd1e5c016442c3120669f3f14f96ebb735a0aafb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 39,
+      "cache_sha256": "dd6bff1ca3c9645ea72087c68b8619c6322659450a6b5bd63c30546abda6d15b",
+      "text_sha256": "257b4ccecc6de8ce09b81fb4359a0c9739a445c995618986d0669eecdb7f8864",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 40,
+      "cache_sha256": "b78fe0f03f6da322aace7ac6dd8fa2fd400c6fb04f83d7195ab76c73996ad854",
+      "text_sha256": "f64cfd54f3efae8e69219c732770602b27df4d5da8ca85b3ea501a8a9cf0c2f7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 41,
+      "cache_sha256": "8391440aa77e5ca988fffe85728870329bceb533247f14c539ba1505cbfc4012",
+      "text_sha256": "3be69d8ddd6520a18d22cc20d589e4a607e095627e786d078390135643068f43",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 42,
+      "cache_sha256": "e54d3304f420a10b4a39158ab31dfe2a344317708a8a329ab85ef66194f671b1",
+      "text_sha256": "522d1b76721730626ab569cc440f45f4da41886a5cc4855e5365c2cd0f22bf17",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 43,
+      "cache_sha256": "78d3c8a7f9917f318c4a8735b55ee643568ad4b568da215eb62b9946863e733b",
+      "text_sha256": "d9b583f9336167d1ee019b57cc675fcd5acbdfc5ffc33674465a5e12b820fb33",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 44,
+      "cache_sha256": "ea4be9c21e1b91c0eb3d74ba4e11383af3285f0ee4f5203f75065b21f3215154",
+      "text_sha256": "6cf304f7e4f4388b1ae7acffa0b5aee7185c2824b39ac4315e685c406d354c71",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 45,
+      "cache_sha256": "9cfc0e5fdd8efe1e4b711998de5d04d7edf78e9ad73a48b7163d2883efda6f08",
+      "text_sha256": "3c0a74487fd6d25a24570602bc81a0d767534381a5c9154b9733104f2853c9ac",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 46,
+      "cache_sha256": "496c5deb56ed143dd2d523129d5c74c62a5aca81050734d8939433ac95b1b707",
+      "text_sha256": "64dd847ca02d94fc632be7c86f903a003d5b37f00db26bb8aa08dc8f6b0b05dc",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 47,
+      "cache_sha256": "899b1dbb87e16bf558e28f1f58e27a4fee6c8f18c56ade904ecfebf65395dcac",
+      "text_sha256": "75097db080a9da76c990697bb567d91d48c5cc7b31d9ecff2e03788482a3441d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 48,
+      "cache_sha256": "c3ab4b540e1e85c4c7fb121dd36e69421bb0a337cb80b3e1face22d0d48d6643",
+      "text_sha256": "fb82b2417d779449c6fd2d3d2abea8b7bf7595d4522a0633448a36f08868f11e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 49,
+      "cache_sha256": "962da0a3bec47f3c8c715c58a49de1b29ca160ac3a57941319ed8445bceba041",
+      "text_sha256": "b7bdd1960e20993c17e65f4337df9ff193eedee1c7e9e96acd1306ee1d4c6aa0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 50,
+      "cache_sha256": "f4a398c5e9562960a2394e2e5168577f54de3375e0a7b938a968f543ff46360c",
+      "text_sha256": "ba0c63f6211f6154e6ab86c264c82162d64112a831daec46623d561a2764814b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 51,
+      "cache_sha256": "1002a0227208a85d4c5654160408e1c21f3d49b63750ecc38977e7c92a2bf521",
+      "text_sha256": "6fb2b6e6fb5f5b2bf112a60aafea4fdf8f36f81dcfa4a812e20012e60fb14fb6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 52,
+      "cache_sha256": "70bee37f572b8b01662e66a10f4be83d5d5157dfe2f31df1b324c042880e9181",
+      "text_sha256": "aa907fdc39656938c6c901ab1f61eed0216cf0090ad0c7bb003866e443c0ee39",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 53,
+      "cache_sha256": "d5002fc32d6052ac8b06804eea47df45661de3fc029049ed5b54eb30bf9931f0",
+      "text_sha256": "eadd2528ab414f5a64d77a1da2cd9dbd806a694afa814d325059a7bf7dc521da",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 54,
+      "cache_sha256": "348c3b76995b6eae02ce8cc82178928263db245a3af02176bb7b63fb3856b8b6",
+      "text_sha256": "591d1a75f04d9f94ec092e4030977e19bfb882c2a0144cd53c1d11f5542bb35f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 55,
+      "cache_sha256": "d90478919e78b0821abb99eb57f481571918e613ee1308d6ad9b8b4bdce1a61a",
+      "text_sha256": "78f81fa6b0559dc43b6692631050cfe1cf36e4a560793d8f778f6cd36de78cbe",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 56,
+      "cache_sha256": "0652a00f2727016c2526e3bd39878021772740d94d16fd777305552a2214ba3e",
+      "text_sha256": "fd8b9a4d162bbe946925e7def4dc498f006d682e71443e5d8477d269bfb33fcd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 57,
+      "cache_sha256": "b381a0953b74798d13a43ddf165ec23d999e3c13aa2f277b1bdf54201779b21a",
+      "text_sha256": "f2418d8f8f6d003c4479a2c6dbdb33da29bf6c8bba5b5b80af5b6dd135ecb5aa",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 58,
+      "cache_sha256": "96b73b0931d3cd62c6b9a99c6db511466f59a7cae80ee5213a248a0e6490a22e",
+      "text_sha256": "552c32f835a653a37172cf4ed6468a03b483e7378351c54072f0714e63823ad3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 59,
+      "cache_sha256": "54e06827e4b077c0bfebc0cddcc37f2442e4a2629f03eaae8bb482ffdd212056",
+      "text_sha256": "30286240a1d60b533fc1207fd5031cc8b40f164f878d90885565b41b073235e7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 60,
+      "cache_sha256": "36b329193c9ebe409ef3a098c31ae8fd8a258f663eff61d15426a183cf827a79",
+      "text_sha256": "65cca89a0a02c13880b49bddac1069e1ef0c583c036046aa9c76c6cc58579941",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 61,
+      "cache_sha256": "776d2f09dbb6fc6c8311d15dc38a82f068e2cae7b60f7bbebca87d52cd360ccc",
+      "text_sha256": "2a213dfd83211bd58cb4dcdd00a2985ab8c788832652979e4b55dd15ff4bf58f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 62,
+      "cache_sha256": "d9afd0c1e673b61a1b0e473968e2a987e2351bfbcb6f60c3b4fd5afa8774e73f",
+      "text_sha256": "9504597666bd1f91f056d924199fa6662506e0218ceec119f9380f1c6d10b5bf",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 63,
+      "cache_sha256": "81f829f6e8541acc2f09b3c7166bce93cc3d7af4cee4f32774fae27044815265",
+      "text_sha256": "adb172cb4bb30d359f1aed80ef8925487df558dc057cd158280ffb325159fac1",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 64,
+      "cache_sha256": "730abaadba4e01e7a7fc4c04995d90e171ac5ca9e2701eb35b10f1eea5fe6da0",
+      "text_sha256": "2fce2c0572b9d98d5377ae0fd80f58d976eca112125a5e562df78f4a219784bb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 65,
+      "cache_sha256": "487d809ed69de01f243be22d4e9bf27294a03960d13ec2b98d97c0a3641df1f6",
+      "text_sha256": "892b4cb55384003e3d4b2a4c381d7efb805bd2342f3572f267f93323eea111e8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 66,
+      "cache_sha256": "1ca486f2844ca26e99661b6f13a2122d577bd408f83be1d8bbf5e054914e4cb0",
+      "text_sha256": "0818ff8e5ec4f84048d024a8089d42410dd5d0896eb61c6c8b477103d1e83265",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 67,
+      "cache_sha256": "953e8858a24425fa41425deb31f3cf9bd443acdded07ea87b2bbf76bc268ae8b",
+      "text_sha256": "aa676ecf1c07c14342862b0df271056eca84497901b258e6d24faaf0fc199cb6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 68,
+      "cache_sha256": "4177f963db25389a677b25633f240a6ef41afe82cf6d0921826d64978b805fe5",
+      "text_sha256": "8e560e4ea428801df2002cf35a314573740cdfe3ec8682ee62552f89384b9d24",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 69,
+      "cache_sha256": "98e9332fe25e652d009f8aa20d26a4f7495b5526569cb49bba323a3550e82a48",
+      "text_sha256": "26348196ac2a52a8b32a34ebe6f3ea28e85a37645fcc3d6df39a5b483cc3b33f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 70,
+      "cache_sha256": "89371190590d494cc9f3b65fa94d8eb5aeb2816a35d7e185d8818fb3b3a54c27",
+      "text_sha256": "f7080d60a33d2b7f2a6b768e249cb73c31d509da2383dd49b0b12c030a7dee18",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 71,
+      "cache_sha256": "ea3eeea5436f095a5b908ff0541287db69534639159479f5517ee4a28b02ce61",
+      "text_sha256": "fded46bacc31ee059ab5d4ecfa78dc10de0ab47d12929cde6530d770c0c54f66",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 72,
+      "cache_sha256": "9de6236881eb55cd882f34e4be0ee93bb20d69b838d3230af01e0ecc24419130",
+      "text_sha256": "6c2f0b5dcd4a59369cac086d24cc6fe567ba61f0accbaf2eeb47de7639a04a38",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 73,
+      "cache_sha256": "fae7bd047c8146cb7ca7726e6a0a7b1a7afed1cc617dd791e5931ff93d574f80",
+      "text_sha256": "445f7f5eba37314f2b4d9e94489da161af2e05f44615f8a7db6cf4652919c188",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 74,
+      "cache_sha256": "70c81f829436b8739bdaac107d6a96c853251df24d61ce15f668efb47d5a0595",
+      "text_sha256": "3e3727d77b731496b0bb3dbceeeee3f60e9ea93c5a9002c1a991f2130db6285a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 75,
+      "cache_sha256": "b82e41344dfabe336405c217ef9e64eb91cf1b2686496640309690d840ed3e27",
+      "text_sha256": "74a756f46a998ceb5b0296dbfd3a6b914afe8506a32b3ed572c84b7743e02bb7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 76,
+      "cache_sha256": "bc22d513e3f74c4de668089dd5d023283356c2d72da18545b985eeada7b31cc7",
+      "text_sha256": "92549f3d193f2e9df653d3ed0956f6c73ea1a3af03b590336a7efa6eddb2829b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 77,
+      "cache_sha256": "cdbfda7a36e1dd7faab65ab5e795c4d953f44b18cd5407346d1a135f0bb16ff1",
+      "text_sha256": "fda1eb09746cb965712d619cb4c9e7526e959b189edf59b5a2500d004cf4f5ea",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 78,
+      "cache_sha256": "5481112e6bf29a49e34213648cbe112b18f395f16d0b976808bcf2f1b7cbc8cd",
+      "text_sha256": "cdbbcb1791b0c1a01b6b1a359f3f9b0d0ef1813b289717b5612a0a4545cc3c2d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 79,
+      "cache_sha256": "7559d22bd0b0c735563b8411ab9fff409fd1e1a7fd92270b64c76c11c9b1efca",
+      "text_sha256": "3af7dc7888c9827b34795b9fe8636ec9c0cdc2644182c5ae3798dd2f8e9c4b35",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 80,
+      "cache_sha256": "ad2dcdb396d1b458568187bd2654bd41ba725180e19783f2c94e60394cc9f679",
+      "text_sha256": "01e43a31d61e2fc838a650666c5ffb18b67708c2a2a724b38aeb52b95c78c74d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 81,
+      "cache_sha256": "513f36716c3ef4cb3fb0c0d0f78b882c5a14d0c32498c7289be665304acd5e13",
+      "text_sha256": "750787845e15438752bf5abee9cace40390d9d3eb8a743b1e644b42eda752ed1",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 82,
+      "cache_sha256": "fa4ea58ce8a8ad2116dfde8d5bef3c7c1cecd47357a08687b72a25ac5f9636a7",
+      "text_sha256": "5b56226c05e7db1f2ddf8035d172cacf39dfc22a155750e09b075292c0957059",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 83,
+      "cache_sha256": "c38b2fea3d029c11f39c8543c6bf3554b23cf133000183f2d332298ec35c4931",
+      "text_sha256": "e089a273e150e16d130f6cdadaf8f7c6d95b5cf2b445a0aaeb25fda455135fa6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 84,
+      "cache_sha256": "829bf20465116b476d1d171c963c33d434a7cbe98e2bdb861e75331e3bedbcf1",
+      "text_sha256": "0dc3757b4d64b7b82c47e094d6031e3049d85df7682f62ed675503fe264360c1",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 85,
+      "cache_sha256": "3482406679be9e2cb5740e002a8048f7dbda30923b1c26835b2d2bf625828d22",
+      "text_sha256": "0d7726ab757bf5e1f5b4f122af21b119c32ed36f787ddd82531088227a9cbbd1",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 86,
+      "cache_sha256": "3cfc0b4a52525ddfb86ed8fb370f9117b985d943ab3a9aad5f9c216e505bb32e",
+      "text_sha256": "50e358f0c6abb87c363d0e36758e8a2b76a8b749073f2a22325eaf51fd4daaf5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 87,
+      "cache_sha256": "5e8579a5a742921435be431bdd79166ff900d2311888433d443010fc02604435",
+      "text_sha256": "734b0485b7502df0cc5a7919222268bd31437b26e3cd4a49c04a123c2ae375dd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 88,
+      "cache_sha256": "3f87c2fcb5c83d1cab4853a5970c1444203a9afe0eb035937eb35340d9456224",
+      "text_sha256": "f09d143834152aae0cb4c19e331aca0988d2d05fde97e5449e91e8eb5d61838d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 89,
+      "cache_sha256": "42c2778977a59603b08fa6094c2a7ade92ef0566241dfdf25b5f8c6dbe895f02",
+      "text_sha256": "1d1dc4542540c37dc5b9068779494ef3c8a650876c78b856d8332066a40b4c62",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 90,
+      "cache_sha256": "1ed8af5eb5289468e960c3def3a2d34b4343e62f5dc177502c58089f6402bd7e",
+      "text_sha256": "e090353ab74c8926999ef6a210ab12dafddd0b9ac6965a9729a20c05736e456b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 91,
+      "cache_sha256": "21c94128f44a78a0975aed7ea4a736172709586b1d00dc3261ee2b7daef037a7",
+      "text_sha256": "33635b5d87ba98fb6a00d10ce17e2fbb77183adeec6b7b944dd310a8e8173d83",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 92,
+      "cache_sha256": "ad9b2d3209b1af4e780a51dc6f2997411937a1c53bcb2319eb646cce9d0a1541",
+      "text_sha256": "d8c906d70a994dd1809954b2cbbeca2351eb823f8f7b1bdb2565aec726ac7e56",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 93,
+      "cache_sha256": "ce86884715ab45a6b95e9bb101ada5a332025bf9a5bee43b992b147fd711d78f",
+      "text_sha256": "f54193b4751c69cf188fb0bb4ec9857cdfd48abcda1ef6a8193ce96cd74344e5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 94,
+      "cache_sha256": "b477d71964d7bf8ff0b016d0d977e3138732a06216586a33d676fcaf19c26967",
+      "text_sha256": "cdaa3996e2c9fe26bab6ac98ac7fa4bca75ba2263be3344f934528d1c01f09b9",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 95,
+      "cache_sha256": "2d7d6f1ccfcf0a5f06df38ce0ba3ecb98665f8daddfa1a9a00cd2d87bf403769",
+      "text_sha256": "155f1dee746296444cf8ee22743e3b4a2f15b473d0bfd22feee51c3bd7ade6fb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 96,
+      "cache_sha256": "9fcafa3e8a32eecf357dbcb2f05b3a8e34190142e2c8d2a6f1184235bbf3c10e",
+      "text_sha256": "4d62c43ea54cf5ff6d64fefa7cd04892e695c01b07af95463d79d06118c31762",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 97,
+      "cache_sha256": "3c6db4a7bd338889c3f29b7aa1266bab6e9eefbdc0f293954bcbeb8482c0be01",
+      "text_sha256": "0c3b90318443298e8f86890456691f1e4c6df2f77950504a7eabb2aaa6ad8d13",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 98,
+      "cache_sha256": "a867907210f2e50fd9a4a233f2270c1142f951e095c029aa57ae125eb0939978",
+      "text_sha256": "11e61f13d5e9f93291c946dd33d4a83070f79c8eb82008f91f1e47d61abe9cd0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 99,
+      "cache_sha256": "aceb1bb61fda36b29002b9e90095b2c3b564e55a5023535fec5ce8340b0ce22d",
+      "text_sha256": "7ed7a8ca589f2c837c62fc155d6593af13ef6da2bc4acfc042765025689dc728",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 100,
+      "cache_sha256": "bf90a6c52b710690dc9dfa39f5f3c85d4c7f3f8d684e4c50381f5f7c7fc3ab36",
+      "text_sha256": "29729497b7eae0ee9f1a2dc79fb365792e556a95c934790b15d0fa40da01c919",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 101,
+      "cache_sha256": "481025fd770dfcf39d149e11ef2345999b00c82ef5b50b02a2c02ab9f539a158",
+      "text_sha256": "4536b36d0e501f00da761c255163f03697cab3644b8b6795897b000e286be9a4",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 102,
+      "cache_sha256": "8a57caaf75dbebf15bd0754d8d8d4e59b6dac90baf04e6da9e722abf81669207",
+      "text_sha256": "0fccaa10b58b69e214220b47902a39c75bea4c08ce573ec184bfd942a899e283",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 103,
+      "cache_sha256": "1b990d3559c028e2e6e2a07af4de457a80bed804c0b8fa0e470924e792a179f9",
+      "text_sha256": "e55c2c7b3c878148696293281c989177e692fed69e24fe87275d2f83b8c8400b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 104,
+      "cache_sha256": "72e8f69745f91153733cd7488e342c4b91a2f6348ed8ee36b3ac4d1e172dec53",
+      "text_sha256": "c654926424d7d8dfe570aff7cb2b988738edcd2d9d803ba8eeac0886a4354c49",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 105,
+      "cache_sha256": "80a09075d25b58d76bf99faec24c97dbc02032008fe927769b908c759d4e6751",
+      "text_sha256": "ab730c4a977f4ace51ebe2e04d080551abce170a5b6dea8c57ee8320d0fdaa1d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 106,
+      "cache_sha256": "6c99bf429549e4d50643bf28002db3aa87dcc36aaec208e81f84efe632c2c571",
+      "text_sha256": "fa291cdb3a2ad2d4d40b83747565cfe74547d0671487a5dbd4cd7d18cdc337f6",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 107,
+      "cache_sha256": "e40e7a57c1bff48d187824735e87a169fb4608838e9b2587275568bb13ae9402",
+      "text_sha256": "9d264acccae5aa1cda610c4797cd247b66fa38278e44ba45682e10f9e1777ca4",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 108,
+      "cache_sha256": "ca17f250337b21da2c8e3eac02facd5833cb268bb16902774776cf37402cafe3",
+      "text_sha256": "287594a3d945a161f41ffd623c77d403a87a41befe64e006a029125fab948079",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 109,
+      "cache_sha256": "88404aaf281e6138c303e696c625725d906b55e3253df86a0f23cbaf0088774f",
+      "text_sha256": "26129c188b082964096f421c2884d6f00d3af531519bfd3ec8714c9e432c1e27",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 110,
+      "cache_sha256": "c64d4b4de93cbb907db3c668b193d42acb89415b5a680edf02429add63662639",
+      "text_sha256": "7dd1a320f20e3985e29e27b06c12044e4d901d7e3e77dd88f3f2371782fe711c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 111,
+      "cache_sha256": "72d1f512a278aa03509d4e3f9b416820326bf3590bc50df2025b49d85a0fcda9",
+      "text_sha256": "35530dba3f97524381bf949d1cbca16f08f1fe4e6de23d75fefb7486db1b3f68",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 112,
+      "cache_sha256": "7729e35e601406e52549f13cf81b239c9536d0951cdfd929f49ac281a2fe390d",
+      "text_sha256": "4eefc567c62479616e09717d7a75daf13a241a9fd4c14a7c7061ba71a14f77c5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 113,
+      "cache_sha256": "ee239ea89d405be8f4ed430d30246448444543759f582a6ddd651ba606f5c7b8",
+      "text_sha256": "9a3f105ba8a63eff6904760339b2947223089cb56cb0c3711b9b734a7876abeb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 114,
+      "cache_sha256": "00f69b62a54db328b059d8ccec088f358d7adf8c05ab6217289f751f59063b3e",
+      "text_sha256": "0d03ca4e70f9f1a6bb91b25e5df8d5e621c2caa33ded8b1f6881866f641513c5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 115,
+      "cache_sha256": "ab1c89300c88613f3ca7e4b5cd3a30fb25727ddde500d39c3ea57c46b0389e23",
+      "text_sha256": "a8453624f4db8128c51cb1876babb383cff41f3c747550573e88702528a09928",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 116,
+      "cache_sha256": "cb54d56b3a302d583e50ce576062ebecaafffb26634db9d89477e13e98069f9a",
+      "text_sha256": "541bb625ad83db51d13eaad379506427599ed0e795533d7ccb69e7b18d73ded3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 117,
+      "cache_sha256": "f179e21c23db5f338d0c0164976e8e688c734a7ce344928ce74df924033499d2",
+      "text_sha256": "8b2b2991550e5b29c72cbb5f6ef31d36dae3873a250b8fb1fbffaaae26d8049e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 118,
+      "cache_sha256": "871052904fd14e9fc057d195df48b9ab3a4976c74a83cf3d7dfb6dad612f9c65",
+      "text_sha256": "ea893bf921c66e3688fbee0ff6486ee8c77345a6e5498572dbfeff6ff8bd095d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 119,
+      "cache_sha256": "e9f465db7e307985cad2001d7a25ee9ff21d68df7f838910459d628be493f68c",
+      "text_sha256": "66e62a6d2977f144a7cd77669629a7df266f3cfbf77be8a640dad2e7d645cc25",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 120,
+      "cache_sha256": "f57486b01835485a0c154199c4acf1504222a0c2fd6abc83e7de260440dbafa3",
+      "text_sha256": "701bdb8b958f6314f01bedf246faacee425b676caee4ac1c76c32810dcd0e82e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 121,
+      "cache_sha256": "094dbaed923aac619fa395cf0b4814ae431e8417216cedaf13ed2185ea0a217b",
+      "text_sha256": "f0ea56bb9544f17302625b6873afcc1321125da75d9089d1e9d2a959cd149d96",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 122,
+      "cache_sha256": "c2853d69f2a9b5002987428e762afca1ad24d17ea01898b240ba65f9fa7f18c3",
+      "text_sha256": "88272046f9745f503c9765f6728c8f94e3b541f9b9e65ae078594e39637cb4f5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 123,
+      "cache_sha256": "dd839c4eafd085d4fbaadc98c3468e07fe02c5fde7ade92b095e1548c1f407fe",
+      "text_sha256": "154cc4ffe725821cf219a1d8c808649853e052ccacadee3d0b4f89c775f41936",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 124,
+      "cache_sha256": "3718059e3785b0d410afeed6057adfdcf7c3be64249465eda76d350c2d3267ea",
+      "text_sha256": "9cb726b251f6fc3610db2c9c143d5ae21f40f637362495d187be945569aa92fb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 125,
+      "cache_sha256": "e36461bd9e85ff8b4add75aa1c61198edcd878b29ebfb64fe0cffa315928c299",
+      "text_sha256": "85be08bf92a60cbb8ba9eb06e21827f78138e18ed67161d6dd1c63cc3575a8fe",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 126,
+      "cache_sha256": "4cae04071f05883ad22fcefc1313ddefde9f858449ea6b6852b968fb6d4542f5",
+      "text_sha256": "e58a10039371d4c4c814cec6fe18f6f7a3a6ed0a58f4c8bd61af2edc7179b53c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 127,
+      "cache_sha256": "cc7a8557af00a9bed953dddc1c84e88cdce1e975ad1acc3c808fda29b00a4eb1",
+      "text_sha256": "9f06a15e9a7089a6a00db9a652e5d648596782eb01b68ec28061e26ffaf0e1bd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 128,
+      "cache_sha256": "70ac7ffd8a6157f00f378d320f5a0d7dbe3133985c2133ce2b908c43a6d0fd33",
+      "text_sha256": "1420f4f9242cd61d3d75fdf9e8225fc11a48931a31f65d85fab5358e9cb28651",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 129,
+      "cache_sha256": "d6dd458be347535e1ce56427cf2444401fa5eb4b86348249616e45e87d183520",
+      "text_sha256": "b20e5ca519c8e2432cd09a4891745e591cc8eaeb25399aa04ae58e69982808a2",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 130,
+      "cache_sha256": "3557d2b8e72cb6c17524277fcea19c4d65c899f6cbf151b118cb7e605b1a791e",
+      "text_sha256": "684e647fbbe2495f8568efaf9ad2b5b589f34573ef2ccd94210e90123e39d6df",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 131,
+      "cache_sha256": "56040477126a049ffef05b1b8272b2c0883206cb2e7df280848ebde9a917ac90",
+      "text_sha256": "9e3555b78987b32e71ec3ae71411bd36b7d616c1f13b8b425d657386bc4e6413",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 132,
+      "cache_sha256": "f1a501e52ea92e3be7c2bdfde9232bf731a1ede9374a302f145cb073343511c1",
+      "text_sha256": "29b62703d16793a955ee6d6154dcacf052008f5a09619f74ba85d8ffe8f05c46",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 133,
+      "cache_sha256": "9fe886d943c7a30905027006ae0a95ed05f82cd4d8375bba95019991cccfdee9",
+      "text_sha256": "0151000fc32b498dd6dfd893d39818c14a2342a3f6d770fd204291a9197d88b8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 134,
+      "cache_sha256": "8c755ae2866121bcb9d9c7d9435d3ff5ed63796a59b8e6e51f1d2e6bb866e2c7",
+      "text_sha256": "9e52ca1a2641b68224f83a5dd4d54c285c71bf51034f778be82c355a040034ce",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 135,
+      "cache_sha256": "d2241426abe915c3bdf0b2f37303dc2f8da51f930775081c36b3a15644226e17",
+      "text_sha256": "8b0be89d18821b016ae38356225eab95255cdc8b71e26bf571486e7f39c1500b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 136,
+      "cache_sha256": "de88ddfb409ed023c1db651a25bea8050d40bdf8d3c6629485b76f8e17747a88",
+      "text_sha256": "5fd2d341fda166706fb6564825be00914aa6a47ff486e84e5de0c59ca463db58",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 137,
+      "cache_sha256": "7b5fb31fa50ae96db84b28a05bda0ea246f882a93f79738ee6d04beed788cc30",
+      "text_sha256": "0bb938c1d12a6fdbe6ac8cc3debbabb2c909efcc2d42f0ae23c1538745244061",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 138,
+      "cache_sha256": "65ce8198ec0e2de158fc5328f64a7b36e658b5b3b0f6a17f47baf839fea184a0",
+      "text_sha256": "be4c1fb26e186771623a84014442121659be2b5107138123c0e35a295bdb2234",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 139,
+      "cache_sha256": "bfcff11aa7e1df99014ac93484eaf892f1229edd2032ff4cc7733809fe7f7524",
+      "text_sha256": "0b3bad19209a8df5e72801baf5ae7d48b62bfefaf91443b4e1777b791cbe7afb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 140,
+      "cache_sha256": "55eabe3aa688fa197eea42c62de6fad18a77f02be880016e23d399c5cb5ffe3b",
+      "text_sha256": "421ab7e7afec86a2abab3a95f63a3ce6300d70323fe3360b70e58a54087de7eb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 141,
+      "cache_sha256": "a95eff84cf33c3a0dd1f4411fed1176933464daf2d2197a122123fa5be91b99f",
+      "text_sha256": "64a29ef8bd569fc46387a067b59e39f31ea08f8fce7d0d7ed6cda74bd445cff3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 142,
+      "cache_sha256": "99fabe0e4b6b90459e0074e1a63be2a5d50e76e3ba0621bdababf18413793c2d",
+      "text_sha256": "fb824fd6fe0ad941a5cb57a6b14bba0d0cd99ecbd7d6ff397a7a08e070c3b11e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 143,
+      "cache_sha256": "f0ca45f4e05fb01a8de16bf2436ff251cf0279bb7fcf1833b2fb78ff9faa31cd",
+      "text_sha256": "acacc83b98cdd65abc92477119cd13937ef9a39b1b75367a9bfbbce73a8e4c16",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 144,
+      "cache_sha256": "9ed73687829e2ac2adece63a745ba68b68748d7fcf494631f44ee84a621930d1",
+      "text_sha256": "13c71aa7e91af06a59246a493f210dd6cfd82f67cb510e3311ec4cc593b69d15",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 145,
+      "cache_sha256": "3568d87d448893b195ca2edc6e1f10e5b3799c50458b34856d9cc4c7fd2ee303",
+      "text_sha256": "f3bc2788c814feea3d90d2b0b8091ba8ed4db24567c9dada218566db83c800e3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 146,
+      "cache_sha256": "9e4ea189ac20704c6e3c52ea3301f84818e3915637e020a06111d42b444b17ad",
+      "text_sha256": "882c414da931b8bb2dcafdf22af579a9d6a95aaa3adef2924c70734da52a4178",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 147,
+      "cache_sha256": "f62a557466237abc7a186560d9742d949ca19f9b1af7a16bcf237f6f852aaa3a",
+      "text_sha256": "a4d1ed94380513357a8c95a2e0e77e456e410c7c7ced5687e0d9558c567407c3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 148,
+      "cache_sha256": "0d4cf4ee53e53c3662056036861bbd283488886c7baf52b91e27f7db7c742e29",
+      "text_sha256": "7539641d7c1dde04fabbc5c3db549a32914fb5a4d4ffd83a6cd1b37094d1ae72",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 149,
+      "cache_sha256": "9a3d82f2205c852a9b35950b7b8698d8ef4179eb3048c22e3338dd2da24f764c",
+      "text_sha256": "bdf1ebbeabe7980823f0e457a31e5f0e3ca19891a13d0a230a105474ff43e9c9",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 150,
+      "cache_sha256": "b1b26b0c02f5b11b25d2dac057ab305e9927023d53cc67aefd977a6f09e0c609",
+      "text_sha256": "251d9ac5372faa05f5e52a6c16aa101756076b0e6dc87fcdffd7c9fed85e8606",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 151,
+      "cache_sha256": "6f869edd199adc31c3a04b9c65db8058f95bd3a63931f5eacd8c8303f38bb034",
+      "text_sha256": "f48c4829c7e08ce997fc71cfdffbc74240b98b1e1c0441090e71f77fc9f83edc",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 152,
+      "cache_sha256": "d41c4fae2654cfbfef19bb09f35ed04eb3e126e277d6a0cdb5549a2f0ece1a96",
+      "text_sha256": "0a1c543898d15c027b092bd2488cee98536716e909c3b20121a16b346820365a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 153,
+      "cache_sha256": "fb0bc582e9d1a2108c9941c6e24914c0d498db25d77d11e0c7aee75e9daebe95",
+      "text_sha256": "edb5dd15343f09ac6fe4774f71182ce6609068b59c6d85b40091d5580eec3fc0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 154,
+      "cache_sha256": "82aba373f76ededa26f57b1dd4152b40ff1ad7633b204e64ebc4e91eb84ae0f9",
+      "text_sha256": "511512999a558bdddc44937440598c9961d1bac62f3500860b68a9b189e3fefc",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 155,
+      "cache_sha256": "ed649d1d5e1d89c98f16a7e6ad65e9d62aa7a77a470d611fd8f42494479d869d",
+      "text_sha256": "4417997e2b78474405ad097be3590b79ede57f83b6456be4d08e3a3545af1064",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 156,
+      "cache_sha256": "7bc475baec173cefb554097e14b7451895acfc56158aad3cdb9c0479999c4a5d",
+      "text_sha256": "7aea9d8a70672fbad2fbbba41f5709f0dfb1ab1063adee157e207ec7787ca988",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 157,
+      "cache_sha256": "5caf3204bb4d7db8af742a5febad36ac42dc58396c145bacbc22c54035162fac",
+      "text_sha256": "02edec9d8e578ba1815ccbd7d506c7ab08d009ea33a86948269dd53977dd37dd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 158,
+      "cache_sha256": "af2e0b2511da175252c6f030c6d3166257ad42cba18e2c3c1093f0976cf81371",
+      "text_sha256": "7e2234634c586adf528892620c8b23d07fe49ab8dfa43ad40b8c52ef4c313f66",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 159,
+      "cache_sha256": "b6100919325177b5af4b22c65fc82742ea8bca885e332eed6b59567303d451a7",
+      "text_sha256": "19a8897d0a228145990dd3ed283b9841197a6f4ad4501166e14039df441e8792",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 160,
+      "cache_sha256": "c9f1f2dfc05b122cbb0d2aed78dcffe63a175f23abf92db43969c3e653451e2e",
+      "text_sha256": "9e55c8b86fc376bbe36bcd4888b3695a7092057ad693d1199b5456caa1de132c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 161,
+      "cache_sha256": "933ff2b8d3f12e0e22c17778e8b9365bfa21d817195f912eeeb9dfe608284730",
+      "text_sha256": "75afcdebbd32e74b7c23e5249ad667568c69331f2cf27961dddbc83b1f100e3f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 162,
+      "cache_sha256": "83836570bb55805a01dc5c174756bc5436d56277ef372434b195c5692896ddce",
+      "text_sha256": "8d798e525da4945290ab8c5394ef4cb4e170389a02dddb875e7833a9e63f49ec",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 163,
+      "cache_sha256": "aaa57c6e986917152f26d36372b447bd6cb716b0502f909971db8fec908b20d0",
+      "text_sha256": "3d1b2d0a92df2cdba246fb8a61e495bf054fed168739a41bf81ed68a17d0271e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 164,
+      "cache_sha256": "cd786d67d31f90f778fb27c01152260e0c8db634540dc582152b0a9f6fe00c41",
+      "text_sha256": "c3fc0d24c2508e33911b41c50b5fb40c25da8eb35a430c9a521f504ea4f3279a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 165,
+      "cache_sha256": "341e5b46411847e063e2eb13a4dae5c6283385165f3a9f93b521cb229e470806",
+      "text_sha256": "1bb8a4b4d36bfad0be16d64d4f8326d80fa036ece1e2578b157e07c6da84bcd0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 166,
+      "cache_sha256": "4c934f183e1ba0fa283d9d23cbb922aff02c3dbe647681dba5324637c99f38cc",
+      "text_sha256": "1931e33e5b9f5d1cb35563fca36ee599724b72029a73e38530c2cdb1e21abb76",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 167,
+      "cache_sha256": "e23ce7c140a4b088520e9dd5f6e321674028710bee272336b5475f6b569e0330",
+      "text_sha256": "a4742bb489b33abd0a5e70cc5ed4d6a37a7bc1f7389d7dd708839aa2bffe583b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 168,
+      "cache_sha256": "546a39bed69335a0e19cb3353d03e1d1f9c01398147a40ce47d8306f486ea9af",
+      "text_sha256": "51ac6937a54e776ed0b5052e6c47c0b1e9f990a32dc3375fa099ae389346e8ff",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 169,
+      "cache_sha256": "544f9aa9fccf52ef7adfa28eb7dd3056ee9e0c926289aa0e4686815bf5fe1787",
+      "text_sha256": "e10546b55541464a2a5de404a64f77d38348e89fe547bdd4f49d9bc92a7110b8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 170,
+      "cache_sha256": "c053b54d07e7d9ac69af963ef6f53c48cf081d12dd3d6465caff653b95876aa9",
+      "text_sha256": "e09b4b22ac35f889d6dc3a4929c1b937785cd74856cb1bcc554ab6fb6e90f87b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 171,
+      "cache_sha256": "e658247cd6c4decf1a6d5d6964e6374613160cb838c1f91ab45feb7e9c76baf7",
+      "text_sha256": "97d314db903639c255d991d3ccbd2d62e58a9c3da42c01796f4930a0139cc700",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 172,
+      "cache_sha256": "0f24867a008a0809a42b71b4149d9d8d0c3cf1b23f61437a1375effa1fa26b8d",
+      "text_sha256": "0ce214468c52b4bb3025952e0253ec9a2e1f0d53065276daf21ad1d5f2b3b100",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 173,
+      "cache_sha256": "b403dec303c3ee9122d4e2422b5cb60da19d6f8d1cfbef7246cab4067f45dbae",
+      "text_sha256": "57b8ea854ce4ea8bb23abdd8585e4cd9c5e73c8e6afbde884a3cf77832b1c50c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 174,
+      "cache_sha256": "836d9cfd9ee7b7c74dcf580b1fe86110d7d502be10084d7bcbdb0de522e5297d",
+      "text_sha256": "b4b2e08d73554ba45a6a515326a96b369fc3e96b72e116490a42dde3af235e13",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 175,
+      "cache_sha256": "69bf496f2b4bc7cb64344f087ae18ae350cdf8d2bef310709eb6cbce9c3d4810",
+      "text_sha256": "a702cf18a93b6e6fd3a78e90e15386f6cb28ae6560e2a889e2fb04bb39f76550",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 176,
+      "cache_sha256": "92e86ddd4172077339f5405dd0244a49eeb294a41dc3af5d6e1fc0dcba7b3f58",
+      "text_sha256": "f42ca7aa451f108e86b69e2f9e37a86c5d72d27e05fe690c6e2bc5053b0ac814",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 177,
+      "cache_sha256": "14dde53a1ce8e3a31e45f30e12922196e4b0c6fb573ae80ba7dff362dc74ddf3",
+      "text_sha256": "3334e6a35bb61841a7ad2cbac671a967fe3d14f59156eecf4b17e10c84a479e4",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 178,
+      "cache_sha256": "c810c8381a186570697ceea8eab7875f1a1bddd96ce5990dd4192f137c300592",
+      "text_sha256": "485758a768c67933cec13e2e61cfcfec83c93fa216a4a77d07cbd8adfef87dd0",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 179,
+      "cache_sha256": "2867bcefbb079db9da4647f931c0f9aed7a050ff7177abcdba93207575bca31c",
+      "text_sha256": "34efb67083021a915f7f917e6e822d1e62040f0f04e82c70f9d967709d03cd22",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 180,
+      "cache_sha256": "807ce85fceb82831e497bbec2bc50afc2ce6ad077f95a9d465f8064dd8a91a2d",
+      "text_sha256": "3144d6ef1b1e40dac30ef6edd1fd9e15acf6a05e3e7790c5514e1b913f6cfbbe",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 181,
+      "cache_sha256": "b3265c7a32ccc6c68dfb9c9661f2ba125cb762209e35a421a5e09c9ada5cb61c",
+      "text_sha256": "8accb0385b36c9620b2f4e0bd9858a55c9d73bcf8f1ccd9fea5d19e1418e0e64",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 182,
+      "cache_sha256": "b6e2d674db23b9e5177d1c8184f8c0b3f1de95cafbb12156549f89a9e215e265",
+      "text_sha256": "4b3b428b7fadde58770c5f124fa150317248916c174f9445ae2c7bc68a62be3d",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 183,
+      "cache_sha256": "4a78ea5c3c59ad5661eec2feb9cc47f9da4ab3c09c57fc87dfa1d12f17130b94",
+      "text_sha256": "9760570a64cf9e483c72670987dbf1ad5d6307cdbf3b4fab8a8d56b24d61830a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 184,
+      "cache_sha256": "496fc080019f9381bab7c2c055740c1dc5ebed7060fdcb1404f9f81557bcb83a",
+      "text_sha256": "7a655c7cf4b5f363766c252308b303469023f9ab320a24dcc8e7009c23d89608",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 185,
+      "cache_sha256": "a1cb4cd71ea11c24f44904dca4b4d8aee5106ee46655c06f51d812f7cc48dc51",
+      "text_sha256": "9809ded7eb7f9e77f2f8f258b50ae75a2bc85baa9538fd9fe2dffa81680f3fca",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 186,
+      "cache_sha256": "060bad68be322dfa0b0921777203e6f0ec9f7e85bdccc022d72f10cf2d8ca8a2",
+      "text_sha256": "62b3eb095f313c21355ea255f4f82989287f1145331ccd0ed7866beaebbe56b2",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 187,
+      "cache_sha256": "1952749d5e3b207c7d0802f0d3f0eb6742c9bfbe7f8cc9fd87a8c88463003d32",
+      "text_sha256": "ceddd8941ac27f79e1a745cfc7939ae52a4881a3899e9eb37da8e13f6e3f4e76",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 188,
+      "cache_sha256": "a4e8fd81675772a05d81db2636e04af0d44acc21de0ac76a84c05b5c3cb6f205",
+      "text_sha256": "79a89882a588b4b645ad21d95102587f74be81c0fcd328c6fcec799553cfd6fb",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 189,
+      "cache_sha256": "f3b7be45bbc6b3d46fc47f6d06dde217a10596666a79655ac47ce58c265d6a77",
+      "text_sha256": "868c9f06626ad289183f2513815cf5f52cbcec2cb6b76e9abff7c462fcb685c3",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 190,
+      "cache_sha256": "eec735c3a97a396d1dc946df1b7f58d84accf2a614c440797557a3e9eb7cc2d0",
+      "text_sha256": "e073ef5402ccdcea2f5a10310b95c764698f266009740f429a57215ae82ba4c4",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 191,
+      "cache_sha256": "0270384de9447c32427649b2b8b5cc25880f96ca7ed8e205c812ac4c9c115e58",
+      "text_sha256": "d7232e4b472471d93dd2737b9366843b2cb21c4d85e5ad6fcd53d347d70d0fc1",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 192,
+      "cache_sha256": "ca8c216cf05d650fd208ee5f723c0cf528cba1a0d0218f3315f5688a1e0711a2",
+      "text_sha256": "2203641fe92467eaf472bf5b395af4a039c16b451594846c62853bbf90aa339c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 193,
+      "cache_sha256": "d14217211ac7681e0f881f943aded85f83c4f92fe944345385d090c96806b353",
+      "text_sha256": "416516cb048323f94bc16115ad1601060d6f42cbefcd0b76b95fd296cdadd492",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 194,
+      "cache_sha256": "a83a3b449005b2597182fce8ecab41bb252ff63a2e85a47e19e0357e8a88d6f1",
+      "text_sha256": "f7943b3b24ff314e067844e15ad8396156e71b8ffaa01a4bdd9db5f89bba1f58",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 195,
+      "cache_sha256": "e7d06e6d6edb47db8ad7f56a721cbbeadaf17989fe3464fa0ab259dc9dd912bb",
+      "text_sha256": "5407a2e2f44f4572f6400335e0cdab08128b5fb6e7054d95bc03d8732c916ca8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 196,
+      "cache_sha256": "44d38ef2e64f5b8fcb8369a98c4d5dcc3df663f57548ac882eefc50f05239ae7",
+      "text_sha256": "e98ed8f3929e480d7db9b022dfba182372d3ddf9e2d76bb8e70d77a21e6ca539",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 197,
+      "cache_sha256": "1286d3d33294046b28fc339ba1b9818117bb9601844b37626b9b2e9167d59a0d",
+      "text_sha256": "781150416660b1c9e2031d9a34249bd67c42ec93568f7c3c0e09b4fdf4151cb7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 198,
+      "cache_sha256": "f84e25719334b43132f92e262af26b1a320369706f9789a00eb448088af8bb01",
+      "text_sha256": "a50c4032cfdf9cddfce00ae6e54e7a588d71ccac6c3f235e11001da78b90d993",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 199,
+      "cache_sha256": "558ab2d558a07f00a5dc5c26b1a549c11d574fda4a727fb60c6e9b2bcd7bb627",
+      "text_sha256": "802569afd4145be4c89626511285c906a7d8f3d2c5b623f2bc05670f9da01986",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 200,
+      "cache_sha256": "bfc352fd7460649257625bebdab085bb941923112e9570d92275e5f76ed9fe16",
+      "text_sha256": "f4296c96c3658a0f0b4538730be02d5e0ab1d0da65dbbe0aae0505e29d38dc82",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 201,
+      "cache_sha256": "913f060007408e4b41028e919e4c08669baa64ecc3e5f467381950b94c5c325a",
+      "text_sha256": "b91a444d5297985039709b098182d3d5a2073398d6c038bb72cf1157d11cce18",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 202,
+      "cache_sha256": "238bb97b6a5f29824ca822fd40fe336631682e3c9ca7176d61abefd7f810dd46",
+      "text_sha256": "96bfc1aa69f31acb5e170048a11640b559ba9b0552823631fb2cf2489d0bf577",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 203,
+      "cache_sha256": "5352b7f3281c39e650d650df45cc49c118b1c23ab92846ee96832dfe9b86c096",
+      "text_sha256": "274d4071fdfb4ca53cf27c8ad0b2965047dfa773034a4378ae69bd8495937e05",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 204,
+      "cache_sha256": "fde29c162baadfc2b382596ec95f524b0f259d8ff37ec3d94d9466074d21fcc3",
+      "text_sha256": "6b46055c094f1695a91324c9f3ae7c9604fe55051b3f55997c6569de1449ba2b",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 205,
+      "cache_sha256": "815e0aa7f0a8c615298602fcfaaaabe0cc230b3de51b7ebd5f35fddbec117854",
+      "text_sha256": "daa161c03f621788f2ba6da38c8ebec24859b93ecbbf39be46794092987e0a36",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 206,
+      "cache_sha256": "1e3446bb0c4ccb5854b8b358ca6633ae2d2bf17a69f6f9015d2c2e97f0b680ed",
+      "text_sha256": "1d858300f0340c29238f69ee5fd23c78a48227a7644588f3754fedefbccc187e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 207,
+      "cache_sha256": "9551e6a204375a4ce6cc5a463f96eaf4b22f92f425f92bd441275ae1344bb527",
+      "text_sha256": "55a9db0388ef367c22861584706a808bc30cb39651267a98f724a60823c68295",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 208,
+      "cache_sha256": "54f4d37201b88e4f6ffafa47d1ba223af211177ed07f88ce9a61182563a96cb1",
+      "text_sha256": "f05e1d6ba9f24665423692c6e8d401c4a4ef08041dd604046c77e9b664065761",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 209,
+      "cache_sha256": "7d988a30b1befa151a23f666eef447ec85147bb7edbd36ef184e6835b9adde42",
+      "text_sha256": "f935bc100f633b24ee3b4c33c7690c9f64c5c6bcda9ff280c7d9703eb3a4e925",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 210,
+      "cache_sha256": "781b195365519b4f910b31f6ec19dd85cf86e6607c6ac2548f0e3088d2a4747e",
+      "text_sha256": "9f0293d4e96caaf0c63c84ff35e06aadc28a6e20a1479a3cbcbe64fa63352528",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 211,
+      "cache_sha256": "2d2617a913b56462844deba63f1f8ebca6f1e30f1e19677576cf29ffaaf0b154",
+      "text_sha256": "af86defdfa5494a0289dc75c8f219c0b1ba43a3b57c25db542fdd9985e3abc6f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 212,
+      "cache_sha256": "c1728a790602a6e7f80a5ee9b0cf4188261c84661a3527aeff16c08c842593f1",
+      "text_sha256": "d8e1a9d30e1e41468f3ce4c0efa9ea358720501e494bebbfe917fe8e9dd6d6cc",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 213,
+      "cache_sha256": "1929a184ef948ead2a974749fa665444a73ca116e0276f4839d1c608f6c5be50",
+      "text_sha256": "4b7857a8cd5a9969157889274905aa8e6b05301b42663ee43dadc6029da52ef5",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 214,
+      "cache_sha256": "b55b309a42f38a28064424154d09980900115d508f93cd4c214ac8a8f677b28b",
+      "text_sha256": "b14de8ed0d7d187076604176289da9a3e01f4f1322380697f9f07aa9a82bfc5c",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 215,
+      "cache_sha256": "cdce497c86cbad5c0f4b94cbb2e71677372a0426fe3fdbb1ad9982c732859e9d",
+      "text_sha256": "bf51e04888de62eec99f7ef16c064b5248a32ba3a694b2d3f86ef6e3988f8c9f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 216,
+      "cache_sha256": "8883332344492003df6e149502fc42e8449bd10b90697ac4b30c58761f88b117",
+      "text_sha256": "53fe02b7fe8fcf471a4cbc21d78861a5e22cbaf4f06426e5130a76d05de3840e",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 217,
+      "cache_sha256": "a6ab9e84881c61680fffae9a5eb290c8658cb14bad87c3857e2240f8713557b6",
+      "text_sha256": "a6cfffada14f459d7e1429ab209ffcb4c351b108a02c75692617d5dc39f170d4",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 218,
+      "cache_sha256": "72ac7223d1a97a86279daff3a06779e4d4028d5c0aa45b5b385a1ded2de98c19",
+      "text_sha256": "8aea5208ad3e704e17f47a13e5576739e04de4a542efb9da4db3298cddf0e0df",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 219,
+      "cache_sha256": "9cd1f01a5348f42c0a75433f6ab0c68f8b86d63f8a71e5f55cfc05fdfa2182df",
+      "text_sha256": "56ff850fdb86e42c4285dfad550f39f3010a14ab5b56f4e8a3e1527a39705c33",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 220,
+      "cache_sha256": "f3c9e6bbf3895e06abe8710a390bdcd90910458b92fc5013cc8ad9fa9c7ea4a8",
+      "text_sha256": "8eaa380d26d646804f9cacf5153c6b93f899bd3ec38628e71048e78e0ca16596",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 221,
+      "cache_sha256": "5ba50784509752512e62e249f602701bd7c6bd6de8e28bf665bd47a09db98b90",
+      "text_sha256": "f0315de8cea7890a7202302846d9fd6dad7b2069ad60264b1ee7fef84bc71671",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 222,
+      "cache_sha256": "4d9c07563551fe2287b1fc5895964acbabb19d0cbf8964644ae5abec7d6df4c2",
+      "text_sha256": "a4947c23aeb6d82b1a4dd2dd24c115dd30f8a5438aeb84a8ac6cca8651691aea",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 223,
+      "cache_sha256": "1ff0547ae970495e4a7a6e8eaaf60c0d3fa94b42bd126059aaad93e2f35e4add",
+      "text_sha256": "4c2b712a1944fe3fc3a8c7a4108f1930d785623d7f4f376204e7cf02a468b346",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 224,
+      "cache_sha256": "307feb730e672c35fee38ce27d64f1050921298718528898dba4d3e0c64e07e9",
+      "text_sha256": "f41ef126062e1bd103ec761586560f9e581661369b5533d8588b8a119ca1ac34",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 225,
+      "cache_sha256": "cc306f80eff43c7364cabfeb79b8dbd25221e16440b5f1deae823ab6be7d9fc4",
+      "text_sha256": "cda5d4c1f3300e8e41dc3312f2c3e975c5ea69a0ec8d9efc94675cce88485b76",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 226,
+      "cache_sha256": "1ce4bea4dbefac959640f8795c3a2e12f19372df18b3998c574ba9ed81f8bcc0",
+      "text_sha256": "f3085dddc35f0b556d19917a5f278b3ca8b323d96b9a6948be99c41b640c4315",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 227,
+      "cache_sha256": "71442fb3a0ada55b551d6e4b8fc7780652692712f68ab851a8f2f401de28e65d",
+      "text_sha256": "f1a07b5200195871d608de322009faf2651ee9696ef8b1aeb3f1a1c9deea4f3a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 228,
+      "cache_sha256": "ce0c673a4abcb991f39ade727fcb4f069ac211ae35dc85c10aa35247ce2d86a6",
+      "text_sha256": "3c965f744d8a62c7ecbf7acd554cc519f580f6b2058befd4249c040ff06723c7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 229,
+      "cache_sha256": "154ea11e65429824e7728bf3b79daf78772c3d4f2ff84a85935706e5e9aea52e",
+      "text_sha256": "9fec8f47779f8dbf4d7e063fe9f68de590feafc44cb69c033a678f9955a51fff",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 230,
+      "cache_sha256": "5be975c350746e68f3021b28ee55b18b810d1cc5db92736495321458dfdc54a6",
+      "text_sha256": "7c0df88efe816538323b844833280e2a6e9dc1d090c80cac8fd99bfc14763562",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 231,
+      "cache_sha256": "b1f9d3067565a68f02baeb53a83455971979a9ffbd91ac2e705dd1da751ebd3d",
+      "text_sha256": "d8f9e8b840f70eea8ec1340f084ad744fe086be622730e121eb7f09fdf960b21",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 232,
+      "cache_sha256": "51b5a052fc8aee0141c0b03c85f70db51a0ec7d88072526e853323fa1c0b8215",
+      "text_sha256": "00ca7619845c3d3d04a202925b4011f2503f555d41eda00b13a06510f1763f33",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 233,
+      "cache_sha256": "8a7057f49b2184f5f2cf74af66b3db99945a7742f165da00261ccabdd28291bd",
+      "text_sha256": "0842a3b7430a4c187545af25a393c9f38c72926d5dbd95eb21f0ee136e511afe",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 234,
+      "cache_sha256": "9d78c87f1efe0000c8821d54e3902fee3c7ea20e6fbbe76b21829c1240ef9a66",
+      "text_sha256": "be5af58d25db3ca9f1bad7284721f04be430e7781c1d99ee6132cdf0db83286f",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 235,
+      "cache_sha256": "e06296fe457192384387730ea39c1c44da7fb6c0368c8f6a576d81b7a83aee2c",
+      "text_sha256": "0fe06b5869f2ca8a1fc7da47a6c1a8127d2a78a81dec7295149bafa9d17f256a",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 236,
+      "cache_sha256": "6aa38443cc1d7d13fc1c4a7572544233255db7a59932b522b9514dc99b296053",
+      "text_sha256": "e6a28296508acd4c5303d7eb7f9eeeeece9e61d34000750aca0fa7016d68aef8",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 237,
+      "cache_sha256": "c98188d68215a02077b08f0f7e49392d0eaba11bb2b04d67b3fe91ee1fa9a019",
+      "text_sha256": "0363eff94125974c171e517f0adfc77c35bb49267941707b83535c47f09d92e7",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 238,
+      "cache_sha256": "164a965d8674f12bf516851fb2d851a0436e6eb39e9d921ef539d9f7310a9ad4",
+      "text_sha256": "8a4bc1d46a183b15959336f96c6383c6b849e59f23eae4be00d411545cdfd5db",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 239,
+      "cache_sha256": "d0147c4f0cf42f0056fdada2dfe03326ed66f95b3719e7376a9651b22bf65afd",
+      "text_sha256": "0dc70be3bc80d4480f6571ff06842dc5357a345202606dde0bf5267e37fd60bd",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 240,
+      "cache_sha256": "d502a9100256161e53cf98c1253151b96193eb20bc191b2de7f495ba80ba13ed",
+      "text_sha256": "90995edb6f49a3d9a85bf03f92f711611ae6db4bc94129a8a8cba4c953587999",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    },
+    {
+      "page": 241,
+      "cache_sha256": "d0a020f1dc1a15bacec5ea06f9ff00d1412cfde77752d91e781cc8cab69171d5",
+      "text_sha256": "d4ff9b482763c5ae200934de7b3dbfb94dac18a5e0938b39e270b869424a08ec",
+      "engine": "PyMuPDF / Tesseract",
+      "dpi": 225,
+      "language": "tur+eng",
+      "visual_review_complete": false
+    }
+  ],
+  "active_representation": "sources/structured-annexes.json"
+}

@@ -1,0 +1,48 @@
+{
+  "version": "0.1.0",
+  "validation_date_local": "2026-11-02",
+  "timezone": "Europe/Istanbul",
+  "environment": {
+    "revit": "2026",
+    "revit_build": "26.4.10.51",
+    "pyrevit": "7.0.0.26278+2233",
+    "ironpython": "2.7.12",
+    "mcp_sdk": "1.30.0"
+  },
+  "offline_api_tests_passed": 15,
+  "ironpython_files_compiled": 4,
+  "real_stdio_mcp": {
+    "tool_count": 5,
+    "resources_verified": true,
+    "invalid_path_rejected": true,
+    "extracted_zip_verified": true
+  },
+  "native_runs": {
+    "wpf_and_api": "ed0efa620efd",
+    "webview2": "18c16b6f8e5a",
+    "installed_reader_navigation": "2ca54e712843",
+    "reload": "7ba1bfa85621",
+    "ribbon_registration": "455a5f3dd65c"
+  },
+  "installed_reader": {
+    "documents_verified": 11,
+    "source_tables": 177,
+    "source_cells": 9614,
+    "source_figures": 11,
+    "search_hits": 13,
+    "theme_toggled": true,
+    "document_modified_unchanged": true,
+    "content_released": true,
+    "ribbon_tab_visible": true,
+    "registered_commands": 1
+  },
+  "qualification_limits": {
+    "revit_2024_tested": false,
+    "revit_2025_tested": false,
+    "zero_doc_ribbon_click_verified": false,
+    "user_button_click_confirmed": false,
+    "all_legal_rules_implemented": false,
+    "current_consolidated_legal_text_verified": false,
+    "whole_document_ocr_review_complete": false
+  }
+}

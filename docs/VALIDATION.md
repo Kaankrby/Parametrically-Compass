@@ -14,7 +14,7 @@ Bu belge ilk sürümün doğrulama kanıtlarını ve kabul sınırlarını izler
 | Açık belge olmadan ribbon düğmesi | Metadata `zero-doc`; canlı kabul TEYİT BEKLİYOR |
 | GitHub'dan pyRevit CLI kurulumu | Varsayılan Extensions dizinine temiz klon; 11 belge ve bütün manifest varlıkları Git blob özetleriyle eşleşti; CLI türü `UIExtension` |
 | Kurulan kopyada native gezinme | 11 belge, 177 kaynak tablo, 9.614 hücre ve 11 SVG; aramada 13 sonuç ve tema değişimi geçti |
-| Ribbon kaydı | Reload sonrası `Compass` görünür; bir panel ve bağımsız `Kitaplık` komutu kayıtlı. Kullanıcının gerçek düğme tıklaması henüz teyit edilmedi |
+| Ribbon kaydı ve kullanıcı kabulü | Reload sonrası `Compass` görünür; bir panel ve bağımsız `Kitaplık` komutu kayıtlı. 02.11.2026 tarihinde kullanıcı gerçek düğmeden açılışı “Kitaplık açıldı” yanıtıyla teyit etti |
 | ZIP | CRC/dosya listesi/SHA-256 kontrolü, diske çıkarılmış kopyadan corpus API ve gerçek stdio MCP istemcisi geçti |
 | GitHub CI | Ubuntu / Python 3.12: Ruff, build güncelliği, 15 test, gerçek MCP stdio, ZIP ve diff kontrolleri geçti |
 

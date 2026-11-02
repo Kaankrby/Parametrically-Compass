@@ -36,11 +36,17 @@
     "ribbon_tab_visible": true,
     "registered_commands": 1
   },
+  "user_acceptance": {
+    "date_local": "2026-11-02",
+    "method": "user_report",
+    "scope": "ribbon_button_opens_library",
+    "report": "Kitaplık açıldı"
+  },
   "qualification_limits": {
     "revit_2024_tested": false,
     "revit_2025_tested": false,
     "zero_doc_ribbon_click_verified": false,
-    "user_button_click_confirmed": false,
+    "user_button_click_confirmed": true,
     "all_legal_rules_implemented": false,
     "current_consolidated_legal_text_verified": false,
     "whole_document_ocr_review_complete": false
